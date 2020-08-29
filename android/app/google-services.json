@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808857980277",
+    "firebase_url": "https://yuka-flutter.firebaseio.com",
+    "project_id": "yuka-flutter",
+    "storage_bucket": "yuka-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808857980277:android:ad4328492c99ab2a69d73c",
+        "android_client_info": {
+          "package_name": "com.example.scanner_bigbrother"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808857980277-fgrimker4d9reerd99im090ghmol61dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4MqrW8WLKGWlGD85-xxX4VuB77WNuQ1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808857980277-fgrimker4d9reerd99im090ghmol61dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
