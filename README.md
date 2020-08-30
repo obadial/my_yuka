@@ -2,7 +2,7 @@
 
 A new Flutter project. 
 
-The goal of this project is to create e scanner to give informations to the consummers.
+The goal of this project is to create a scanner to give informations to the consummers. Like Yuka :) .
 
 ## Getting Started
 
